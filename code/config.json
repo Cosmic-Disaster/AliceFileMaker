@@ -1,0 +1,9 @@
+{
+    "PROJECT_ROOT": "D:/Github/AliceRenderer",
+    "TARGET_DIR": "src",
+    "CMAKE_FILE": "CMakeLists.txt",
+    "CMAKE_VAR_PREFIX": "${ALICE_SRC_DIR}",
+    "BG_IMAGE": "background.png",
+    "BG_OPACITY": 0.45,
+    "CMAKE_MARKER": "#컴포넌트들"
+}
